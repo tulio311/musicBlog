@@ -5,6 +5,15 @@
 }
 
 .item{
-	border: 1px solid black;
+	caret-color: transparent;
+	cursor: default;
 	border-radius: 5px;
+}
+
+.item:hover{
+	background-color: aquamarine;
+}
+
+.item:active{
+	background-color: whitesmoke;
 }
