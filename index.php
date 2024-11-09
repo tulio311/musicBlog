@@ -92,7 +92,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
             
             <!-- Navigation Panel -->
             <nav class="main-nav dark transparent stick-fixed wow-menubar">
-                <div class="main-nav-sub full-wrapper">
+                <!-- <div class="main-nav-sub full-wrapper">-->
                     
                     <!-- Logo  (* Add your text or image to the link tag. Use SVG or PNG image format. 
                     If you use a PNG logo image, the image resolution must be equal 200% of the visible logo
@@ -129,14 +129,14 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
 -->
                     <!-- End Main Menu -->
                     
-                </div>
+                <!--</div>-->
             </nav>
             <!-- End Navigation Panel -->
             
             <main id="main">
             
-                <!-- Home Section -->
-                <section class="page-section bg-dark-alpha-50 light-content" style="background-image: url(images/demo-elegant/section-bg-1.jpg)" id="home">
+                <!-- Home Section bg-dark-alpha-50 -->
+                <section class="page-section light-content" style="background-color:blue" id="home">
                     <div class="container position-relative pt-20 pt-sm-20 text-center">
                         
                         <h1 class="hs-title-3 mb-10 wow fadeInUpShort" data-wow-duration="0.6s">Música solamente</h1>     
